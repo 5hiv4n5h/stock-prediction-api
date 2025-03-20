@@ -1,0 +1,11 @@
+flask
+flask-cors
+tensorflow
+tensorflow-probability
+scikit-learn
+pandas
+yfinance
+nltk
+matplotlib
+seaborn
+gunicorn
